@@ -1,0 +1,12 @@
+[book]
+authors = ["ahmadrosid"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Personal Wiki"
+
+
+[build]
+build-dir="../public/wiki"
+
+
